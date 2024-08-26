@@ -2,10 +2,6 @@
   font-family: BigShoulder;
   src: url(../fonts/BigShouldersDisplay-VariableFont_wght.ttf);
 }
-@font-face {
-  font-family: Lexend Deca;
-  src: url(ttps://fonts.google.com/specimen/Lexend+Deca);
-}
 
 body {
   background-color: rgb(242, 242, 242);
